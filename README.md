@@ -22,6 +22,7 @@ Một website đặt vé xem phim trực tuyến, cho phép người dùng dễ 
 | Thanh toán       | Tích hợp VNPay / PayPal / Stripe giả lập|
 
 
-#£ Demo
+## Demo
 Link Youtube: https://youtu.be/YTzyUotyLGI
+
 Link Demo: https://youtu.be/hVhbk0dfM_Q
