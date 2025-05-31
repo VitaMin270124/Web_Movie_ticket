@@ -15,10 +15,10 @@ Một website đặt vé xem phim trực tuyến, cho phép người dùng dễ 
 
 | Thành phần      | Công nghệ                             |
 |------------------|----------------------------------------|
-| Frontend         | HTML, CSS, JavaScript, Bootstrap / React |
-| Backend          | Node.js + Express / Django / Laravel (tuỳ phiên bản) |
-| Cơ sở dữ liệu    | MySQL / MongoDB / PostgreSQL          |
-| Authentication   | JWT hoặc Session-based                |
+| Frontend         | HTML, CSS, ReactJS |
+| Backend          | Node.js + Express |
+| Database         | MongoDB / Cloudinary          |
+| Other            | ngrok               |
 | Thanh toán       | Tích hợp VNPay / PayPal / Stripe giả lập|
 
 
