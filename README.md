@@ -23,7 +23,20 @@ Một website đặt vé xem phim trực tuyến, cho phép người dùng dễ 
 
 ## Cài đặt và chạy đồ án
 1. Clone repo
+git clone https://github.com/VitaMin270124/Web_Movie_ticket.git
 
+2. Cài đặt và chạy
+**Frontend**
+- cd frontend
+- npm i
+- npm run dev
+- Truy cập: http://localhost:3001/
+
+**Backend**
+- cd backend
+- npm i
+- Tạo file .env
+- npm start
 ## Demo
 Link Youtube: https://youtu.be/YTzyUotyLGI
 
