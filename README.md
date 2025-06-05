@@ -26,6 +26,7 @@ Một website đặt vé xem phim trực tuyến, cho phép người dùng dễ 
 git clone https://github.com/VitaMin270124/Web_Movie_ticket.git
 
 2. Cài đặt và chạy
+
 **Frontend**
 - cd frontend
 - npm i
@@ -37,6 +38,7 @@ git clone https://github.com/VitaMin270124/Web_Movie_ticket.git
 - npm i
 - Tạo file .env
 - npm start
+
 ## Demo
 Link Youtube: https://youtu.be/YTzyUotyLGI
 
