@@ -21,6 +21,8 @@ Một website đặt vé xem phim trực tuyến, cho phép người dùng dễ 
 | Other            | ngrok               |
 | Thanh toán       | Tích hợp VNPay / PayPal / Stripe giả lập|
 
+## Cài đặt và chạy đồ án
+1. Clone repo
 
 ## Demo
 Link Youtube: https://youtu.be/YTzyUotyLGI
